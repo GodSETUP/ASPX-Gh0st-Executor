@@ -3,7 +3,8 @@
 <img src="https://images2.imgbox.com/ff/af/bifxJZUQ_o.png">
 
 ASPX Gh0st Executor is a powerful web shell to execute system commands, read and delete files. This tool is secured with password authentication.
-Tested on **Microsoft Windows Server 2016 Standard (Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.4700.0)**
+
+Tested on `Microsoft Windows Server 2016 Standard (Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.8.4700.0)`
 
 ## 🚀 Features
 
