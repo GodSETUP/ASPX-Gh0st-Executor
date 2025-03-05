@@ -2,7 +2,7 @@
 
 <img src="https://images2.imgbox.com/ff/af/bifxJZUQ_o.png">
 
-ASPX Gh0st Executor is a powerful web-based tool that allows administrators to execute system commands, read and delete files, and navigate directories through an ASPX interface. This tool is secured with password authentication.
+ASPX Gh0st Executor is a powerful web shell to execute system commands, read and delete files, and navigate directories through an ASPX interface. This tool is secured with password authentication.
 
 ## 🚀 Features
 
