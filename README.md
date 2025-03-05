@@ -21,7 +21,9 @@ ASPX Gh0st Executor is a powerful web shell to execute system commands, read and
 ### **Accessing the Tool**
 Go to: http://yourwebsite.com/gh0st.aspx?exec=ghost
 
-Replace `ghost` with the correct password set in the script.
+Replace `ghost` with the correct password set in the script. If you do not enter the wrong password in the parameter, the display will be as below
+
+<img src="https://images2.imgbox.com/ff/af/bifxJZUQ_o.png">
 
 ### **Running Commands**
 1. Enter a system command in the **command input field**.
