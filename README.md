@@ -9,13 +9,11 @@ ASPX Ghost Executor is a powerful web-based tool that allows administrators to e
 - **File Reading**: View the content of any file in the active directory.
 - **Directory Navigation**: Change the working directory and list contents.
 - **Password Protection**: Requires an authentication parameter (`exec=your_password`) to access.
-- 
 
 ## 🔧 Installation
 
 1. **Download the `cmd_executor.aspx` file**.
 2. **Upload it to your web server** (e.g., `/inetpub/wwwroot/` or any accessible directory).
-3. 
 
 ## 📖 Usage
 
@@ -34,7 +32,7 @@ Replace `your_password` with the correct password set in the script.
 - The tool runs under the **IIS worker process**, which may have restricted privileges. If a command fails, check permissions.
 
 ## ⚠️ **Warnings & Disclaimer**
-- **⚠️ Use this tool for legal and authorized purposes only.**
+- **Use this tool for legal and authorized purposes only.**
 - Running commands can be **dangerous** if misused. **Only use it if you know what you're doing**.
 - The author is **not responsible** for any **misuse or damage** caused by this tool.
 - Ensure that your **server is secured** to prevent **unauthorized access**.
