@@ -23,7 +23,7 @@ Go to: http://yourwebsite.com/gh0st.aspx?exec=ghost
 
 Replace `ghost` with the correct password set in the script. If you do not enter the wrong password in the parameter, the display will be as below
 
-<img src="https://images2.imgbox.com/ff/af/bifxJZUQ_o.png">
+<img src="https://images2.imgbox.com/d6/57/aY4gHRIn_o.png">
 
 ### **Running Commands**
 1. Enter a system command in the **command input field**.
